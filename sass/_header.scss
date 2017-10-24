@@ -1,0 +1,23 @@
+.nav-large {
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  height: 90%;
+  @include tablet {
+    transition: 1s;
+    padding-right: 60%;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+  }
+}
+.nav-small {
+  height: 200px;
+  margin: 40px;
+  @include tablet {
+    padding: 0 60% 0 0;
+    height: 200px;
+    margin: 20px;
+    flex-direction: row;
+}
+}
