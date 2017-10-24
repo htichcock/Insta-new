@@ -6,7 +6,6 @@
     @include tablet {
       align-self: center;
       flex-direction: row;
-      padding-left: 200px;
     }
     img {
       height: 50%;
@@ -18,7 +17,7 @@
     }
   }
 
-.gallery {
+  .gallery {
     flex-wrap: wrap;
     display: flex;
     height: auto;

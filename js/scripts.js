@@ -37,7 +37,8 @@
       var image = value.multimedia[multimediaIndex].url;
       var url = value.url
      $('.gallery').append('<a href="' + url + '" style="background-image:url(' + image + ');">' + "<h1>" + title + "</h1>" + '</a>');
- });
- });
- });
+  });
+  });
+  
+  });
 

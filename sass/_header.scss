@@ -5,7 +5,7 @@
   height: 90%;
   @include tablet {
     transition: 1s;
-    padding-right: 60%;
+    padding-right: 55%;
     flex-direction: row;
     align-content: center;
     justify-content: center;
@@ -16,8 +16,8 @@
   margin: 40px;
   @include tablet {
     padding: 0 60% 0 0;
-    height: 200px;
-    margin: 20px;
+    height: 150px;
+    margin: 10px;
     flex-direction: row;
 }
 }
