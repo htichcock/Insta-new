@@ -5,7 +5,7 @@ This project is a webpage that pulls news stories from the New York Times API.
 ## Getting Started
 
 Click on the select bar and choose what stories to read.
-<<<<<<< HEAD
+
 I originally built this in Grid, but learned that choosing the right tool for the job is extremely important. Since this site has a 1 dimensional layout, flex is the way to go.
 
 ## Deployment
